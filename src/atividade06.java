@@ -10,7 +10,5 @@ public class atividade06 {
         JOptionPane.showMessageDialog(null, "| A comissao do funcionario é | \n" +comissao);
         JOptionPane.showMessageDialog(null, "| O salario final é de | \n " +salarioFinal);
 
-
-
     }
 }
