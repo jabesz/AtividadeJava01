@@ -8,13 +8,5 @@ public class atividade05 {
 
         JOptionPane.showMessageDialog(null, "| O novo preço é | \n" +newPrice);
 
-
-
-
-
-
-
-
-
     }
 }
