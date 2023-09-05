@@ -7,9 +7,5 @@ public class atividade08 {
         double pesoGrama = pesoKilo * 1000;
         JOptionPane.showMessageDialog(null, "| O pessoo da pessoa em gramas é |\n " +pesoGrama);
 
-
-
-
-
     }
 }
