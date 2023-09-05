@@ -8,12 +8,5 @@ public class atividade04 {
         double mediaPonderada = (nota1 * 2 + nota2 * 3) / 5;
         JOptionPane.showMessageDialog(null, "| A media ponderada é | \n" +mediaPonderada);
 
-
-
-
-
-
-
-
     }
 }
