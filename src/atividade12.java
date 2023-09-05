@@ -9,11 +9,6 @@ public class atividade12 {
 
         JOptionPane.showMessageDialog(null, "O funcionario ganha " +quantidadeDeSalarioMinimo+ " salarios minimos");
 
-
-
-
-
-
     }
 
 }
