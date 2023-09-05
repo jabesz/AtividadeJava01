@@ -10,14 +10,6 @@ public class atividade02 {
         double res = num1 * num2 * num3;
         JOptionPane.showMessageDialog(null, "| O valor é | \n" +res);
 
-
-
-
-
-
-
-
-
     }
 
 }
