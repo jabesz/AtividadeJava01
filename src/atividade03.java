@@ -8,8 +8,5 @@ public class atividade03 {
         double res = num1 / num2;
         JOptionPane.showMessageDialog(null, "| O resultado da divisão é | \n " +res);
 
-
-
-
     }
 }
